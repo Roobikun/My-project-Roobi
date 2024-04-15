@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+},
+  "dependencies": {
+    "mime-types": "^2.1.35"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
